@@ -17,6 +17,9 @@ class Style {
     Colors.green.shade100,
     Colors.blue.shade100,
     Colors.blueGrey.shade100,
+    Colors.teal.shade100,
+    Colors.purple.shade100,
+    Colors.amberAccent.shade100,
   ];
 
   static TextStyle mainTitle =
