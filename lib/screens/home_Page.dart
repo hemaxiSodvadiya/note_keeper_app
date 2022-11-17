@@ -111,7 +111,6 @@ class _HomePageState extends State<HomePage> {
                                   ),
                                   IconButton(
                                     onPressed: () async {
-                                      //await CloudFirestoreHelper.cloudFirestoreHelper.updateRecord(id: list[i].id, updateData: updateData())
                                       updateData(id: list[i].id);
                                     },
                                     icon: Icon(Icons.edit),
